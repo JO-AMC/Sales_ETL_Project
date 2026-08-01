@@ -4,9 +4,7 @@ Project Title:
 
 Objective:
 
-	Build an ETL pipeline that extracts sales data, 
-transforms and cleans it, loads into MySQL, and visualizes 
-insights using power BI.
+	Build an ETL pipeline that extracts sales data, transforms and cleans it, loads into MySQL, and visualizes insights using power BI.
 
 Technologies Used:
 	
@@ -19,5 +17,4 @@ Technologies Used:
 	Git & GitHub
 
 ETL Workflow:
-
 CSV ---> Python ---> Data Cleaning ---> MySQL ---> SQL Analysis ---> Power BI
